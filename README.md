@@ -66,8 +66,8 @@ GET /api/episodes
     "slug": "11-senioridade",
     "description": "<p>E no episódio de hoje, convidamos o Paulo Reis, mais conhecido como Bugginho Developer para falar sobre Senioridade!&nbsp;</p>\n<p><br></p>",
     "published_at": "April 26, 2021"
-  }
-  // demais episódios...
+  },
+  ...
 ]
 ```
 
