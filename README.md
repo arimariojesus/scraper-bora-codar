@@ -20,7 +20,7 @@ Projeto hospedado na [Heroku](https://www.heroku.com/), você pode testar aqui:
 
 ## ❔ Sobre
 
-Esta é uma API que captura os dados do podcat [Bora Codar](https://codar.app/bora.html) fazendo um web scraping e retornando os dados em json.
+Esta é uma API que captura os dados do podcast [Bora Codar](https://codar.app/bora.html) fazendo um web scraping e retornando os dados em json.
 
 ---
 
