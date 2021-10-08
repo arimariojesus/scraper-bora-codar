@@ -98,7 +98,7 @@ GET /api/episodes/:slug
 
 ## 📝 Direitos
 
-Todos os direitos dos dados utilizados e retornados na API são de direiito do [Bora Codar](https://github.com/devssa/bora-codar/issues)
+Todos os direitos dos dados utilizados e retornados na API são de interesse do [Bora Codar](https://github.com/devssa/bora-codar/issues)
 
 ---
 
